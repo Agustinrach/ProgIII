@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\JuegoDeMemoria\bin\Debug\net5.0-windows\JuegoDeMemoria.exe
+C:\Users\PC\source\repos\JuegoDeMemoria\bin\Debug\net5.0-windows\JuegoDeMemoria.deps.json
+C:\Users\PC\source\repos\JuegoDeMemoria\bin\Debug\net5.0-windows\JuegoDeMemoria.runtimeconfig.json
+C:\Users\PC\source\repos\JuegoDeMemoria\bin\Debug\net5.0-windows\JuegoDeMemoria.runtimeconfig.dev.json
+C:\Users\PC\source\repos\JuegoDeMemoria\bin\Debug\net5.0-windows\JuegoDeMemoria.dll
+C:\Users\PC\source\repos\JuegoDeMemoria\bin\Debug\net5.0-windows\JuegoDeMemoria.pdb
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.AssemblyInfo.cs
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.dll
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\refint\JuegoDeMemoria.dll
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.pdb
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\JuegoDeMemoria.genruntimeconfig.cache
+C:\Users\PC\source\repos\JuegoDeMemoria\obj\Debug\net5.0-windows\ref\JuegoDeMemoria.dll

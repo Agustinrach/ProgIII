@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\itcompragamer\bin\Debug\itcompragamer.exe.config
+C:\Users\PC\source\repos\itcompragamer\bin\Debug\itcompragamer.exe
+C:\Users\PC\source\repos\itcompragamer\bin\Debug\itcompragamer.pdb
+C:\Users\PC\source\repos\itcompragamer\obj\Debug\itcompragamer.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\itcompragamer\obj\Debug\itcompragamer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\itcompragamer\obj\Debug\itcompragamer.exe
+C:\Users\PC\source\repos\itcompragamer\obj\Debug\itcompragamer.pdb

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\bin\Debug\DiagramadorTPI.exe.config
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\bin\Debug\DiagramadorTPI.exe
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\bin\Debug\DiagramadorTPI.pdb
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.Form1.resources
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.Properties.Resources.resources
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.csproj.CopyComplete
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.exe
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.pdb
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DiagramadorTPI\DiagramadorTPI\obj\Debug\DiagramadorTPI.csproj.SuggestedBindingRedirects.cache

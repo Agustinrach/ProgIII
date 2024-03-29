@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\ParcialHoroscopo\bin\Debug\ParcialHoroscopo.exe.config
+C:\Users\PC\source\repos\ParcialHoroscopo\bin\Debug\ParcialHoroscopo.exe
+C:\Users\PC\source\repos\ParcialHoroscopo\bin\Debug\ParcialHoroscopo.pdb
+C:\Users\PC\source\repos\ParcialHoroscopo\obj\Debug\ParcialHoroscopo.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ParcialHoroscopo\obj\Debug\ParcialHoroscopo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ParcialHoroscopo\obj\Debug\ParcialHoroscopo.exe
+C:\Users\PC\source\repos\ParcialHoroscopo\obj\Debug\ParcialHoroscopo.pdb

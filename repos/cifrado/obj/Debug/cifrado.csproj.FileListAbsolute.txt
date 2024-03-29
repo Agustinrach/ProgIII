@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\cifrado\bin\Debug\cifrado.exe.config
+C:\Users\PC\source\repos\cifrado\bin\Debug\cifrado.exe
+C:\Users\PC\source\repos\cifrado\bin\Debug\cifrado.pdb
+C:\Users\PC\source\repos\cifrado\obj\Debug\cifrado.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\cifrado\obj\Debug\cifrado.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\cifrado\obj\Debug\cifrado.exe
+C:\Users\PC\source\repos\cifrado\obj\Debug\cifrado.pdb

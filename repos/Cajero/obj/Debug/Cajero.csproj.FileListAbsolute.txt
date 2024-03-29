@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Cajero\obj\Debug\Cajero.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\PC\source\repos\Cajero\bin\Debug\Cajero.exe
+C:\Users\PC\source\repos\Cajero\bin\Debug\Cajero.pdb
+C:\Users\PC\source\repos\Cajero\obj\Debug\Cajero.exe
+C:\Users\PC\source\repos\Cajero\obj\Debug\Cajero.pdb

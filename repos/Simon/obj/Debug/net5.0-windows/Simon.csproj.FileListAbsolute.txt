@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Simon\obj\Debug\net5.0-windows\Simon.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Simon\obj\Debug\net5.0-windows\Simon.Form1.resources
+C:\Users\PC\source\repos\Simon\obj\Debug\net5.0-windows\Simon.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Simon\obj\Debug\net5.0-windows\Simon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Simon\obj\Debug\net5.0-windows\Simon.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Simon\obj\Debug\net5.0-windows\Simon.AssemblyInfo.cs
+C:\Users\PC\source\repos\Simon\obj\Debug\net5.0-windows\Simon.csproj.CoreCompileInputs.cache

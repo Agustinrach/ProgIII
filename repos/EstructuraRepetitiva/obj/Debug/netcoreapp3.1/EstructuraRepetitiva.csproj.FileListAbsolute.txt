@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\EstructuraRepetitiva\bin\Debug\netcoreapp3.1\EstructuraRepetitiva.exe
+C:\Users\PC\source\repos\EstructuraRepetitiva\bin\Debug\netcoreapp3.1\EstructuraRepetitiva.deps.json
+C:\Users\PC\source\repos\EstructuraRepetitiva\bin\Debug\netcoreapp3.1\EstructuraRepetitiva.runtimeconfig.json
+C:\Users\PC\source\repos\EstructuraRepetitiva\bin\Debug\netcoreapp3.1\EstructuraRepetitiva.runtimeconfig.dev.json
+C:\Users\PC\source\repos\EstructuraRepetitiva\bin\Debug\netcoreapp3.1\EstructuraRepetitiva.dll
+C:\Users\PC\source\repos\EstructuraRepetitiva\bin\Debug\netcoreapp3.1\EstructuraRepetitiva.pdb
+C:\Users\PC\source\repos\EstructuraRepetitiva\obj\Debug\netcoreapp3.1\EstructuraRepetitiva.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\EstructuraRepetitiva\obj\Debug\netcoreapp3.1\EstructuraRepetitiva.AssemblyInfo.cs
+C:\Users\PC\source\repos\EstructuraRepetitiva\obj\Debug\netcoreapp3.1\EstructuraRepetitiva.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EstructuraRepetitiva\obj\Debug\netcoreapp3.1\EstructuraRepetitiva.dll
+C:\Users\PC\source\repos\EstructuraRepetitiva\obj\Debug\netcoreapp3.1\EstructuraRepetitiva.pdb
+C:\Users\PC\source\repos\EstructuraRepetitiva\obj\Debug\netcoreapp3.1\EstructuraRepetitiva.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\LibroIntefaces\bin\Debug\LibroIntefaces.exe.config
+C:\Users\PC\source\repos\LibroIntefaces\bin\Debug\LibroIntefaces.exe
+C:\Users\PC\source\repos\LibroIntefaces\bin\Debug\LibroIntefaces.pdb
+C:\Users\PC\source\repos\LibroIntefaces\obj\Debug\LibroIntefaces.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\LibroIntefaces\obj\Debug\LibroIntefaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LibroIntefaces\obj\Debug\LibroIntefaces.exe
+C:\Users\PC\source\repos\LibroIntefaces\obj\Debug\LibroIntefaces.pdb

@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Dado\bin\Debug\Dado.exe.config
+C:\Users\PC\source\repos\Dado\bin\Debug\Dado.exe
+C:\Users\PC\source\repos\Dado\bin\Debug\Dado.pdb
+C:\Users\PC\source\repos\Dado\obj\Debug\Dado.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dado\obj\Debug\Dado.exe
+C:\Users\PC\source\repos\Dado\obj\Debug\Dado.pdb
+C:\Users\PC\source\repos\Dado Mejorado\Dado\bin\Debug\Dado.exe.config
+C:\Users\PC\source\repos\Dado Mejorado\Dado\bin\Debug\Dado.exe
+C:\Users\PC\source\repos\Dado Mejorado\Dado\bin\Debug\Dado.pdb
+C:\Users\PC\source\repos\Dado Mejorado\Dado\obj\Debug\Dado.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Dado Mejorado\Dado\obj\Debug\Dado.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Dado Mejorado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dado Mejorado\Dado\obj\Debug\Dado.exe
+C:\Users\PC\source\repos\Dado Mejorado\Dado\obj\Debug\Dado.pdb

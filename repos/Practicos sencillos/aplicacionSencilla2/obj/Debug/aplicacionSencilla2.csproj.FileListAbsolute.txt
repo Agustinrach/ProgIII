@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\aplicacionSencilla2\bin\Debug\aplicacionSencilla2.exe.config
+C:\Users\PC\source\repos\aplicacionSencilla2\bin\Debug\aplicacionSencilla2.exe
+C:\Users\PC\source\repos\aplicacionSencilla2\bin\Debug\aplicacionSencilla2.pdb
+C:\Users\PC\source\repos\aplicacionSencilla2\obj\Debug\aplicacionSencilla2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\aplicacionSencilla2\obj\Debug\aplicacionSencilla2.exe
+C:\Users\PC\source\repos\aplicacionSencilla2\obj\Debug\aplicacionSencilla2.pdb
+C:\Users\PC\source\repos\aplicacionSencilla2\obj\Debug\aplicacionSencilla2.csprojAssemblyReference.cache
